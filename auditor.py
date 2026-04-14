@@ -61,6 +61,10 @@ def main():
     for regula in reguly:
         ikona = "✅" if regula["zaliczona"] else "❌"
         print(f"{ikona} {regula['nazwa']} {regula['szczegol']}")
+        
+    if sprawdz_popularne(haslo):
+        print("⚠️  UWAGA: To hasło znajduje się na liście najczęściej używanych haseł!")
+        print("    Jest pierwszym kandydatem w atakach słownikowych.\n")
 
 
 main()
