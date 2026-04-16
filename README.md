@@ -15,13 +15,14 @@ python auditor.py
 
 ## Przykładowy wynik
 
-✅ Długość >= 12 znaków (18 znaków)
-✅ Zawiera wielką literę
-✅ Zawiera małą literę  
-✅ Zawiera cyfrę
-✅ Zawiera znak specjalny
+- ✅ Długość >= 12 znaków (18 znaków)
+- ✅ Zawiera wielką literę
+- ✅ Zawiera małą literę  
+- ✅ Zawiera cyfrę
+- ✅ Zawiera znak specjalny
 
 Wynik: 5/5  
+
 Ocena: A — Silne hasło
 
 ## Czego się nauczyłem
