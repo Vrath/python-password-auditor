@@ -1,7 +1,6 @@
 # Password Security Auditor
 
-Skrypt w Pythonie który analizuje siłę hasła według 
-standardów bezpieczeństwa NIST i OWASP.
+Skrypt w Pythonie który analizuje siłę hasła według standardów bezpieczeństwa NIST i OWASP.
 
 ## Co sprawdza
 
